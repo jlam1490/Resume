@@ -1,8 +1,8 @@
 # Resume
 
-<John Lam>
+John Lam
 210-17 32nd Avenue Bayside, NY, 11361				          Work: 9176288508
-                                        jlam1490@baysidehighschool.org                     https://github.com/jlam1490
+jlam1490@baysidehighschool.org                     https://github.com/jlam1490
 
 EDUCATION
 Computer & Web Design CTE, Bayside High School, 94.55, Anticipated Graduation,
